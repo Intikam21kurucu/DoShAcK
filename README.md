@@ -26,5 +26,6 @@ cd DoShAcK
 ````
 
 # For Exam
-```` python3 DoShAcK.py -s 192.168.1.1 -p 80 -t 135
+```` 
+python3 DoShAcK.py -s 192.168.1.1 -p 80 -t 135
 ````
