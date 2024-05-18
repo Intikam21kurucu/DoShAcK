@@ -20,3 +20,11 @@ pip3 install logging
 pip3 install urllib
 pip3 install urllib.request
 pip3 install random
+pkg install git
+git clone https://github.com/Intikam21kurucu/DoShAcK
+cd DoShAcK
+````
+
+# For Exam
+```` python3 DoShAcK.py -s 192.168.1.1 -p 80 -t 135
+````
